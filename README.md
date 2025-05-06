@@ -18,10 +18,10 @@ I'm Samiksha, a software developer with over 8 years of experience in builiding 
 ![](https://img.shields.io/badge/Postgres_SQL-4169E1?logo=PostgresSQL&logoColor=white&style=for-the-badge)
 
 ### Libraries and Frameworks 
-![](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Axios-5A29E4?logo=Axios&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white&style=for-the-badge)
 
 ### Tools and Technologies
 ![](https://img.shields.io/badge/Salesforce-00A1E0?logo=Salesforce&logoColor=white&style=for-the-badge)
